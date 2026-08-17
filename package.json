@@ -1,0 +1,24 @@
+{
+  "name": "first_neural_network_with_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "types": "module",
+  "scripts": {
+    "start": "node --no-warnings --watch index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DS-Johnny/First_neural_network_with_nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "4.22"
+  },
+  "bugs": {
+    "url": "https://github.com/DS-Johnny/First_neural_network_with_nodejs/issues"
+  },
+  "homepage": "https://github.com/DS-Johnny/First_neural_network_with_nodejs#readme"
+}
